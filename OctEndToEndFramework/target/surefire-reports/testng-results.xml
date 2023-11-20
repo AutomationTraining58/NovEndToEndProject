@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-19T09:41:30 IST" name="Suite" finished-at="2023-11-19T09:41:37 IST" duration-ms="7711">
+    <groups>
+    </groups>
+    <test started-at="2023-11-19T09:41:30 IST" name="Test" finished-at="2023-11-19T09:41:37 IST" duration-ms="7711">
+      <class name="modules.AssignLeave">
+        <test-method signature="clickOnAssignLeaveButton()[pri:0, instance:modules.AssignLeave@1a5f7e7c]" started-at="2023-11-19T09:41:30 IST" name="clickOnAssignLeaveButton" finished-at="2023-11-19T09:41:31 IST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAssignLeaveButton -->
+      </class> <!-- modules.AssignLeave -->
+      <class name="modules.MyTimesheet">
+        <test-method signature="clickOnTimeSheetIcon()[pri:1, instance:modules.MyTimesheet@21fdfefc]" started-at="2023-11-19T09:41:31 IST" name="clickOnTimeSheetIcon" finished-at="2023-11-19T09:41:34 IST" duration-ms="3528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnTimeSheetIcon -->
+        <test-method signature="clickOnHelpButton()[pri:2, instance:modules.MyTimesheet@21fdfefc]" started-at="2023-11-19T09:41:34 IST" name="clickOnHelpButton" finished-at="2023-11-19T09:41:37 IST" duration-ms="3371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnHelpButton -->
+      </class> <!-- modules.MyTimesheet -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
